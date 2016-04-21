@@ -1,7 +1,7 @@
 # Hero-Tracker
   
   
-  ### Normal Mode
+  ## Normal Mode
 
 #### Storyboard Tasks
 * [ ] Remove the view in the storyboard from the template
