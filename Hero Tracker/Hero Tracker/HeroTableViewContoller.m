@@ -9,6 +9,7 @@
 #import "HeroTableViewContoller.h"
 
 @interface HeroTableViewContoller ()
+@property(weak,nonatomic) NSObject *customHeroModels;
 
 @end
 

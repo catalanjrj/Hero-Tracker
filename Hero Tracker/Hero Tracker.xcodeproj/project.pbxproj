@@ -15,6 +15,7 @@
 		128A1CA61CCAA7490010C748 /* HeroDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 128A1CA51CCAA7490010C748 /* HeroDetailViewController.m */; };
 		128A1CA91CCAA8160010C748 /* Hero.m in Sources */ = {isa = PBXBuildFile; fileRef = 128A1CA81CCAA8160010C748 /* Hero.m */; };
 		128A1CAB1CCAA8720010C748 /* heroes.json in Resources */ = {isa = PBXBuildFile; fileRef = 128A1CAA1CCAA8720010C748 /* heroes.json */; };
+		128A1CAE1CCAB2BD0010C748 /* HeroTableViewContoller.m in Sources */ = {isa = PBXBuildFile; fileRef = 128A1CAD1CCAB2BD0010C748 /* HeroTableViewContoller.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,8 @@
 		128A1CA71CCAA8160010C748 /* Hero.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Hero.h; sourceTree = "<group>"; };
 		128A1CA81CCAA8160010C748 /* Hero.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Hero.m; sourceTree = "<group>"; };
 		128A1CAA1CCAA8720010C748 /* heroes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = heroes.json; path = ../../heroes.json; sourceTree = "<group>"; };
+		128A1CAC1CCAB2BD0010C748 /* HeroTableViewContoller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HeroTableViewContoller.h; sourceTree = "<group>"; };
+		128A1CAD1CCAB2BD0010C748 /* HeroTableViewContoller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HeroTableViewContoller.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +74,8 @@
 				128A1C9B1CCA92820010C748 /* Info.plist */,
 				128A1CA41CCAA7490010C748 /* HeroDetailViewController.h */,
 				128A1CA51CCAA7490010C748 /* HeroDetailViewController.m */,
+				128A1CAC1CCAB2BD0010C748 /* HeroTableViewContoller.h */,
+				128A1CAD1CCAB2BD0010C748 /* HeroTableViewContoller.m */,
 				128A1CA71CCAA8160010C748 /* Hero.h */,
 				128A1CA81CCAA8160010C748 /* Hero.m */,
 				128A1C8A1CCA92820010C748 /* Supporting Files */,
@@ -159,6 +164,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				128A1CAE1CCAB2BD0010C748 /* HeroTableViewContoller.m in Sources */,
 				128A1C8F1CCA92820010C748 /* AppDelegate.m in Sources */,
 				128A1CA61CCAA7490010C748 /* HeroDetailViewController.m in Sources */,
 				128A1C8C1CCA92820010C748 /* main.m in Sources */,

@@ -1,143 +1,139 @@
-{
-
+ [{
   
-"Howard The Duck":{
+  
+  "Howard The Duck":{
   "firstName": "Howard",
   "lastName":"UNREVEALED",
   "nickName":"None",
-
+  
   "height": "2'7\"",
   "weight": "40 lbs.",
-
+  
   "powers": "Howard the Duck has no superhuman powers, although it is suggested that Howard possesses a high degree of as yet undefined magical powers.",
-
+  
   "abilities": "Howard is a self-styled master of Quack Fu, an obscure martial art usable only by waterfowl."
   },
-
-"Vision":{
+  
+  "Vision":{
   "firstName": "Vision",
   "lastName":"none",
   "nickName":"none",
-
+  
   "height": "6'3\"",
   "weight": "300 lbs.",
-
+  
   "powers": "The Vision is able to fly and possesses complete control over hisdensity, enabling him to render himself intangible or extraordinarily massive and diamond-hard at will. He can partially materialize within another person,causing his victim extreme pain. The solar cell on the Vision's forehead emits beams of infrared and microwave radiation, with temperatures ranging from 500 to 30,000 degrees Fahrenheit."
   },
-
-"Spider-Gwen":{
+  
+  "Spider-Gwen":{
   "firstName":"Gwendolyne",
   "lastName": "Stacy",
   "nickName": "Gwen",
-
+  
   "height": "5'5\"",
   "weight": "125 lbs.",
-
-  "powers": "wall crawling, enhanced strength, speed, stamina, durability, regeneration and balance, spider-sense, and the mark of kain.",
-},
-
-"Venom":{
+  
+  "powers": "wall crawling, enhanced strength, speed, stamina, durability, regeneration and balance, spider-sense, and the mark of kain."
+  },
+  
+  "Venom":{
   "firstName": "Eugene",
   "lastName" : "Thompson",
   "nickName" : "Flash",
-
+  
   "height": "6'2\"",
   "weight": "185 lbs.",
-
+  
   "powers": "none",
   "abilities": "A natural all-around athlete, Flash was a capable unarmedcombatant thanks to his boxing background and his military experience, and was a well-trained soldier during his army days. Flash was also a gifted football player in his youth. A car accident left Flash a mental and physical wreck, confined to a wheelchair and stuck in a speechless stupor. However, he recently recovered physically, though mentally has lost all memories after high school."
-},
-
-"Doop":{
+  },
+  
+  "Doop":{
   "firstName": "Doop /(presumed)",
   "lastName": "none",
   "nickName": "none",
-
+  
   "height": "Variable, usually around 3'",
   "weight": "Variable",
-
+  
   "powers": "Doop's body contained a nightmare dimension called Doop Land, which he could access by turning himself inside-out. He had roughly Class 100 strength and an untested level of energy projection, which included the ability to fire energy blasts from his brain and the power to emit a short-range energy pulse that prevented psychic intrusion. Doop’s body contained a backup brain, which could sustain him for a short period of time in the absence of his primary brain. Having no legs, Doop moved via levitation. He could inflate his body to unknown proportions. The full extent of Doop’s many powers is unknown",
-
-  "abilities": "Doop usually spoke in his own unique yet easily comprehensible language, but was also fluent in at least English. He was an excellent cameraman.",
+  
+  "abilities": "Doop usually spoke in his own unique yet easily comprehensible language, but was also fluent in at least English. He was an excellent cameraman."
   },
-
-"Domino":{
+  
+  "Domino":{
   "firstName":"Neena",
   "lastName": "Thurman",
-
+  
   "height": "5'8\"",
   "weight": "120 lbs.",
-
+  
   "powers": "Domino is a mutant with the ability to subliminally and psionically initiate random telekinetic acts that affect probability in her favor by making improbable (but not impossible) things to occur within her line of sight, thus causing her to have \"good luck\" and her opponents to have \"bad luck.\" This phenomenon can be anything from an enemy's equipment failure to hitting just the right switch with a stray shot to shut down an overloading nuclear reactor. This unconsciously controlled talent is triggered when she is in a stressful situation (such as fighting or escaping). This effect constantly emanates from her body at all times and is completely subconscious. However, it is also largely participatory - in order for the luck to take effect, Domino herself must engage in an action whose chance she can affect. For example, if debris falling from the sky was about to hit her in the head, she would still be hurt if she stood still. However, if she tried to avoid them, she would move perfectly to avoid each and every piece about to hit her. In addition if Domino were to stand before a hail of bullets she would be a bullet-ridden corpse. Instead, she must take action, attempting to avoid the gunfire and will miraculously bob and weave just perfectly to avoid every single shot. As a byproduct of her probability abilities, Domino's cerebral cortex emits a current of bio-electric pulses down her spine to instinctively guide her movements during such situations, which has the added effect of augmenting her natural reflexes and agility to near-superhuman levels. Although Domino cannot consciously control her ability, she can activate it by putting herself in a position in which she could be harmed. The full extent of her powers is still unknown.",
-
-       "abilities": "Domino is extensively trained in various armed and unarmed combat techniques, as well as in covert operations. She is a superb markswoman, athlete, and swimmer, and is adept in the use of explosives."
-},
-
-"Ghost Rider":{
+  
+  "abilities": "Domino is extensively trained in various armed and unarmed combat techniques, as well as in covert operations. She is a superb markswoman, athlete, and swimmer, and is adept in the use of explosives."
+  },
+  
+  "Ghost Rider":{
   "firstName": "Jonathan",
   "lastName": "Blaze",
   "nickName": "Johnny",
-
+  
   "height": "5'10\"(Blaze), 6'2\"(Ghost Rider)",
   "weight": "180 lbs.(Blaze), 220 lbs. (Ghost Rider)",
-
+  
   "powers": "Ghost Rider has superhuman strength and durability, as well as the ability to project and control Hellfire, which can sear the soul as well as burn the flesh. He can shape his Hellfire into a mystical motorcycle capable of traveling over water and up vertical surfaces. He is also immune to any mystical attacks that are specific to beings with living souls.",
   "abilities": "Blaze is a world-class cyclist capable of seemingly impossible stunts. He is also an excellent shot with pistols and shotguns and has limited knowledge of the occult."
   },
-
-"Iron Lad":{
+  
+  "Iron Lad":{
   "firstName": "Nathaniel",
   "lastName": "Richards",
-
+  
   "height": "5'9\"",
   "weight": "166 lbs.",
-
-  "powers": "Iron Lad ages slightly slower than norml humans.",
-
-},
-"Moon Knight":{
+  
+  "powers": "Iron Lad ages slightly slower than norml humans."
+  
+  },
+  "Moon Knight":{
   "firstName": "Marc",
   "lastName": "Spector",
-
+  
   "height": "6'2\"",
   "weight": "225 lbs.",
-
+  
   "powers": "Moon Knight gains enhanced strength, endurance, and reflexes at night, reaching his pinnacle during a full moon, and sometimes has prophetic visions.",
-   "abilities": "Moon Knight is a skilled boxer, commando, martial artist, acrobat, gymnast and pilot. His multiple identities grant him resistance to some psychic assaults."
-},
-"NightCrawler":{
+  "abilities": "Moon Knight is a skilled boxer, commando, martial artist, acrobat, gymnast and pilot. His multiple identities grant him resistance to some psychic assaults."
+  },
+  "NightCrawler":{
   "firstName": "Kurt",
   "lastName": "Wagner",
-
+  
   "height": "5'9\"",
   "weight": "161 lbs.",
-
+  
   "powers":"Nightcrawler is a mutant who can teleport by opening a portal into another dimension, travelling through it via an unconscious direction-finding sense, and returning to his own dimension. When teleporting, Nightcrawler leaves behind a small portion of the atmosphere of the other dimension that escapes with a muffled “bamf” sound and smells of brimstone. On returning, his power automatically displaces any extraneous liquids and gases.Nightcrawler can easily teleport north south along Earth's magnetic lines of force. However, teleporting east west against them or teleporting vertically is more difficult. Under optimal conditions, Nightcrawler can teleport 2 miles east west, 3 miles north south, and 2 miles vertically if he exerts himself. Nightcrawler's momentum is retained when teleporting, so he arrives with the same inertia he left with. He can reduce this by teleporting short distances in the opposite direction.Nightcrawler has a limited unconscious extrasensory ability that prevents him from teleporting into any area that he cannot see or has not seen in the past, as doing so runs the risk of injury or death by materializing partially or entirely within a solid object.Through practice, Nightcrawler has increased the mass he can teleport with him, though the limit to the amount of weight he can carry when teleporting and the distance over which he can teleport with such additional loads are unknown. Teleporting with Nightcrawler often leaves a passenger feeling weak and nauseous.Nightcrawler is also able to cling to solid surfaces via his hands and feet. He can also render himself nigh-invisible in shadows by manipulating the ever-present portal to the dimension he teleports through so as to bend light around himself.",
   "abilities": "Nightcrawler is an Olympic-class acrobat thanks to his flexibles pine that allows him to perform contortionist-like feats and to go long periods in a semi-crouching position without injury. He is a skilled hand-to-hand combatant and a master at fencing, which he can even perform with his tail, which is strong enough to support his entire body weight"
-},
-"Odin":{
+  },
+  "Odin":{
   "firstName": "Odin",
   "lastName": "Borson",
-
+  
   "height": "6'9\"",
   "weight": "650 lbs.",
-
+  
   "powers": "Odin possessed a variety of superhuman attributes common to the superhuman race of beings known as the Asgardians. Odin was superhumanly strong and was capable of lifting about 60 tons. Odin, despite his advanced age at the time of his death, was much stronger than the average Asgardian male, which could lift roughly 30 tons. Like all other Asgardians, Odin was extremely long lived and aged at a much slower pace than humans, but was not immortal in the same sense as some other races of gods who ceased to age upon reaching adulthood. Odin was highly resistant to physical injury and he couldn't die under conventional circumstances. It would take an injury that resulted in a spreading of a significant portion of his bodily molecules over a great distance, thus preventing the mystical lifeforce common to all Asgardians from regenerating areas essential to his survival, to cause him to physically die. The tissues of Odin's body; his flesh, bone, and muscle possessed about three times the density of the tissue of a human body. This helped to contribute to Odin's superhuman strength and weight. Odin's advanced musculature generated considerably less lactic acids than the musculature of human beings, granting him superhuman levels of stamina in all physical activities.Odin possessed vast energy manipulating abilities called the Odinforce and could manipulate tremendous amounts of mystical energies for a variety of purposes, only some of which were seen. Odin could temporarily increase his own superhuman physical attributes, fire powerful bursts of energy for destructive purposes, teleportation between dimensions, grant living beings or inanimate objects a variety of superhuman abilities, control the lifeforce of other Asgardians, etc. He was periodically required to enter week-long Odinsleep to preserve his immortality and renew his godly energies",
   "abilities": "Vast knowledge of ancient and arcane wisdom. Odin was also an excellent hand to hand combatant, having thousands of years of experience and was quite adapt at using his vast energy powers in combat situations."
-},
-"Squirrel Girl":{
+  },
+  "Squirrel Girl":{
   "firstName": "Doreen",
   "lastName": "Green",
-
+  
   "height": "5'3\"",
   "weight": "100 lbs.",
-
-  "powers":"Squirrel Girl has many squirrel-like powers. She has superhuman strength and agility, allowing her to leap several stories, as well as an enhanced sense of smell. She also has 2-3 inch retractable knuckle spikes that can slice wood, in addition to sharp claws on each digit that can be used for climbing. Squirrel Girl has buck teeth that can chew wood, and a 3-4 feet long prehensile tail. She also has powers allowing her to work with squirrels, beyond the abilities of normal training. She can speak and understand a squirrel's language and they seem to be able to understand her speaking English. This is often the means through which she defeats her more powerful enemies, as she can summon large armies of squirrels for help. Her eyes glow in low light, so it is possible that Squirrel Girl may have supervision.",
+  
+  "powers": "Squirrel Girl has many squirrel-like powers. She has superhuman strength and agility, allowing her to leap several stories, as well as an enhanced sense of smell. She also has 2-3 inch retractable knuckle spikes that can slice wood, in addition to sharp claws on each digit that can be used for climbing. Squirrel Girl has buck teeth that can chew wood, and a 3-4 feet long prehensile tail. She also has powers allowing her to work with squirrels, beyond the abilities of normal training. She can speak and understand a squirrel's language and they seem to be able to understand her speaking English. This is often the means through which she defeats her more powerful enemies, as she can summon large armies of squirrels for help. Her eyes glow in low light, so it is possible that Squirrel Girl may have supervision."
   "abilities": "Squirrel Girl has also been shown to be a rather formidable martial artist, being able to defeat both Deadpool and Wolverine in hand-to-hand combat, both of whom are some of Marvel's most dangerous melee combatants."
-},
-
-
-
-
-
-}
+  },
+  
+  }
