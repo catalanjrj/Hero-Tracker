@@ -4,9 +4,9 @@
 ### Normal Mode
 
 #### Storyboard Tasks
-* [ ] Remove the view in the storyboard from the template
-* [ ] Add a Table View Controller to the canvas
-* [ ] Embed the above in a Navigation Controller
+* [x] Remove the view in the storyboard from the template
+* [x] Add a Table View Controller to the canvas
+* [x] Embed the above in a Navigation Controller
 * [ ] Add a second View Controller, to be used as the table's detail view
 * [ ] The table view cell prototype should display two labels. One on the left of the cell and one on the right.
     * [ ] The table view cell prototype should have a disclosure indicator
