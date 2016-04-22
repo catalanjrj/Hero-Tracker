@@ -16,13 +16,13 @@
     * [x] A label in the upper left corner that displays the hero's name
     * [x] A label 20 points below the cover name label that displays the hero's home world
     * [x] A label the standard distance (8 points) from the home world label that displays the hero's powers (be sure to set the label to _0 lines_ in the attributes inspector, as it will allow you to display more than 1 line)
-    * [ ] These labels should be connected to their appropriate properties in the HeroDetailViewController class.
+    * [x] These labels should be connected to their appropriate properties in the HeroDetailViewController class.
 
 #### Code Tasks
-* [ ] Remove the _ViewController.swift_ file from the project
-* [ ] Add a new Table View Controller subclass called _HeroTableViewController_
-* [ ] Add a new View Controller subclass called _HeroDetailViewController_
-* [ ] Add a new swift class called "Hero"
+* [x] Remove the _ViewController.swift_ file from the project
+* [x] Add a new Table View Controller subclass called _HeroTableViewController_
+* [x] Add a new View Controller subclass called _HeroDetailViewController_
+* [x] Add a new swift class called "Hero"
 * [ ] Add the _heroes.json_ file to the project
 * In _HeroTableViewController_:
     * [ ] Create a property to store custom _Hero_ models
