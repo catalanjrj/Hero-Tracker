@@ -10,4 +10,9 @@
 
 @interface HeroTableViewContoller : UITableViewController
 
+@property(weak,nonatomic) NSObject *customHeroModels;
+
+
+
+-(void)_loadHeroes;
 @end

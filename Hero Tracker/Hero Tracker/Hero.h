@@ -9,5 +9,9 @@
 #import <Foundation/Foundation.h>
 
 @interface Hero : NSObject
+@property (nonatomic) NSString *heroName;
+@property (nonatomic) NSString *homeWorld;
+@property (nonatomic)    NSString *powers;
 
++ (Hero *)heroWithDictionary:(NSDictionary *)heroDict;
 @end

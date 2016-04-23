@@ -9,5 +9,20 @@
 #import "Hero.h"
 
 @implementation Hero
-
++ (Hero *)heroWithDictionary:(NSDictionary *)heroDict
+{
+    Hero *aHero = nil;
+    if (heroDict)
+    {
+        aHero = [[Hero alloc] init];
+        aHero.heroName = [heroDict objectForKey:@"neroName"];
+        
+       
+        aHero.homeWorld = [heroDict objectForKey:@"homeWorld"];
+        
+      
+        aHero.powers = [heroDict objectForKey:@"heroPowers"];
+    }
+    return aHero;
+}
 @end

@@ -25,10 +25,11 @@
 * [x] Add a new swift class called "Hero"
 * [x] Add the _heroes.json_ file to the project
 * In _HeroTableViewController_:
-    * [ ] Create a property to store custom _Hero_ models
-    * [ ] Set the title to "S.H.I.E.L.D. Hero Tracker"
-    * [ ] Call the private method _loadHeroes()_
-    * [ ] Create a private method called _loadHeroes()_
+    * [x] Create a property to store custom _Hero_ models
+    * [x] Set the title to "S.H.I.E.L.D. Hero Tracker"
+    * [x] Create a private method called _loadHeroes()_
+    * [x] Call the private method _loadHeroes()_
+    
         * [ ] Load the JSON file into a local array
         * [ ] Create a for loop that iterates over each dictionary in the array and creates a hero object. Add each hero to the _heroes_ array property
         * [ ] Sort the _heroes_ array in place to alphabetize the list by hero name
