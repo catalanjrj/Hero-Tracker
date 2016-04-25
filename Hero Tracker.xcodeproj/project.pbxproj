@@ -7,33 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		128A1C8C1CCA92820010C748 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 128A1C8B1CCA92820010C748 /* main.m */; };
-		128A1C8F1CCA92820010C748 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 128A1C8E1CCA92820010C748 /* AppDelegate.m */; };
-		128A1C951CCA92820010C748 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 128A1C931CCA92820010C748 /* Main.storyboard */; };
-		128A1C971CCA92820010C748 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 128A1C961CCA92820010C748 /* Assets.xcassets */; };
-		128A1C9A1CCA92820010C748 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 128A1C981CCA92820010C748 /* LaunchScreen.storyboard */; };
-		128A1CA61CCAA7490010C748 /* HeroDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 128A1CA51CCAA7490010C748 /* HeroDetailViewController.m */; };
-		128A1CA91CCAA8160010C748 /* Hero.m in Sources */ = {isa = PBXBuildFile; fileRef = 128A1CA81CCAA8160010C748 /* Hero.m */; };
-		128A1CAB1CCAA8720010C748 /* heroes.json in Resources */ = {isa = PBXBuildFile; fileRef = 128A1CAA1CCAA8720010C748 /* heroes.json */; };
-		128A1CAE1CCAB2BD0010C748 /* HeroTableViewContoller.m in Sources */ = {isa = PBXBuildFile; fileRef = 128A1CAD1CCAB2BD0010C748 /* HeroTableViewContoller.m */; };
+		128F893E1CCDA3910044FD06 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 128F89331CCDA3910044FD06 /* AppDelegate.m */; };
+		128F893F1CCDA3910044FD06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 128F89341CCDA3910044FD06 /* Assets.xcassets */; };
+		128F89401CCDA3910044FD06 /* Base.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 128F89351CCDA3910044FD06 /* Base.lproj */; };
+		128F89411CCDA3910044FD06 /* Hero.m in Sources */ = {isa = PBXBuildFile; fileRef = 128F89371CCDA3910044FD06 /* Hero.m */; };
+		128F89421CCDA3910044FD06 /* HeroDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 128F89391CCDA3910044FD06 /* HeroDetailViewController.m */; };
+		128F89431CCDA3910044FD06 /* HeroTableViewContoller.m in Sources */ = {isa = PBXBuildFile; fileRef = 128F893B1CCDA3910044FD06 /* HeroTableViewContoller.m */; };
+		128F89441CCDA3910044FD06 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 128F893C1CCDA3910044FD06 /* Info.plist */; };
+		128F89451CCDA3910044FD06 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 128F893D1CCDA3910044FD06 /* main.m */; };
+		128F89491CCDA48B0044FD06 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 128F89481CCDA48B0044FD06 /* LaunchScreen.storyboard */; };
+		128F894B1CCDA4950044FD06 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 128F894A1CCDA4950044FD06 /* Main.storyboard */; };
+		128F894D1CCDA4E50044FD06 /* heroes.json in Resources */ = {isa = PBXBuildFile; fileRef = 128F894C1CCDA4E50044FD06 /* heroes.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		128A1C871CCA92820010C748 /* Hero Tracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hero Tracker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		128A1C8B1CCA92820010C748 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		128A1C8D1CCA92820010C748 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		128A1C8E1CCA92820010C748 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		128A1C941CCA92820010C748 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		128A1C961CCA92820010C748 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		128A1C991CCA92820010C748 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		128A1C9B1CCA92820010C748 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		128A1CA41CCAA7490010C748 /* HeroDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HeroDetailViewController.h; sourceTree = "<group>"; };
-		128A1CA51CCAA7490010C748 /* HeroDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HeroDetailViewController.m; sourceTree = "<group>"; };
-		128A1CA71CCAA8160010C748 /* Hero.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Hero.h; sourceTree = "<group>"; };
-		128A1CA81CCAA8160010C748 /* Hero.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Hero.m; sourceTree = "<group>"; };
-		128A1CAA1CCAA8720010C748 /* heroes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = heroes.json; path = ../../heroes.json; sourceTree = "<group>"; };
-		128A1CAC1CCAB2BD0010C748 /* HeroTableViewContoller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HeroTableViewContoller.h; sourceTree = "<group>"; };
-		128A1CAD1CCAB2BD0010C748 /* HeroTableViewContoller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HeroTableViewContoller.m; sourceTree = "<group>"; };
+		128F89321CCDA3910044FD06 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = "Hero Tracker/AppDelegate.h"; sourceTree = "<group>"; };
+		128F89331CCDA3910044FD06 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = "Hero Tracker/AppDelegate.m"; sourceTree = "<group>"; };
+		128F89341CCDA3910044FD06 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "Hero Tracker/Assets.xcassets"; sourceTree = "<group>"; };
+		128F89351CCDA3910044FD06 /* Base.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Base.lproj; path = "Hero Tracker/Base.lproj"; sourceTree = "<group>"; };
+		128F89361CCDA3910044FD06 /* Hero.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Hero.h; path = "Hero Tracker/Hero.h"; sourceTree = "<group>"; };
+		128F89371CCDA3910044FD06 /* Hero.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Hero.m; path = "Hero Tracker/Hero.m"; sourceTree = "<group>"; };
+		128F89381CCDA3910044FD06 /* HeroDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HeroDetailViewController.h; path = "Hero Tracker/HeroDetailViewController.h"; sourceTree = "<group>"; };
+		128F89391CCDA3910044FD06 /* HeroDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HeroDetailViewController.m; path = "Hero Tracker/HeroDetailViewController.m"; sourceTree = "<group>"; };
+		128F893A1CCDA3910044FD06 /* HeroTableViewContoller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HeroTableViewContoller.h; path = "Hero Tracker/HeroTableViewContoller.h"; sourceTree = "<group>"; };
+		128F893B1CCDA3910044FD06 /* HeroTableViewContoller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HeroTableViewContoller.m; path = "Hero Tracker/HeroTableViewContoller.m"; sourceTree = "<group>"; };
+		128F893C1CCDA3910044FD06 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "Hero Tracker/Info.plist"; sourceTree = "<group>"; };
+		128F893D1CCDA3910044FD06 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = "Hero Tracker/main.m"; sourceTree = "<group>"; };
+		128F89481CCDA48B0044FD06 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = "Hero Tracker/Base.lproj/LaunchScreen.storyboard"; sourceTree = "<group>"; };
+		128F894A1CCDA4950044FD06 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = "Hero Tracker/Base.lproj/Main.storyboard"; sourceTree = "<group>"; };
+		128F894C1CCDA4E50044FD06 /* heroes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = heroes.json; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,18 +69,18 @@
 		128A1C891CCA92820010C748 /* Hero Tracker */ = {
 			isa = PBXGroup;
 			children = (
-				128A1C8D1CCA92820010C748 /* AppDelegate.h */,
-				128A1C8E1CCA92820010C748 /* AppDelegate.m */,
-				128A1C931CCA92820010C748 /* Main.storyboard */,
-				128A1C961CCA92820010C748 /* Assets.xcassets */,
-				128A1C981CCA92820010C748 /* LaunchScreen.storyboard */,
-				128A1C9B1CCA92820010C748 /* Info.plist */,
-				128A1CA41CCAA7490010C748 /* HeroDetailViewController.h */,
-				128A1CA51CCAA7490010C748 /* HeroDetailViewController.m */,
-				128A1CAC1CCAB2BD0010C748 /* HeroTableViewContoller.h */,
-				128A1CAD1CCAB2BD0010C748 /* HeroTableViewContoller.m */,
-				128A1CA71CCAA8160010C748 /* Hero.h */,
-				128A1CA81CCAA8160010C748 /* Hero.m */,
+				128F89321CCDA3910044FD06 /* AppDelegate.h */,
+				128F89331CCDA3910044FD06 /* AppDelegate.m */,
+				128F89481CCDA48B0044FD06 /* LaunchScreen.storyboard */,
+				128F894A1CCDA4950044FD06 /* Main.storyboard */,
+				128F89341CCDA3910044FD06 /* Assets.xcassets */,
+				128F89351CCDA3910044FD06 /* Base.lproj */,
+				128F89361CCDA3910044FD06 /* Hero.h */,
+				128F89371CCDA3910044FD06 /* Hero.m */,
+				128F89381CCDA3910044FD06 /* HeroDetailViewController.h */,
+				128F89391CCDA3910044FD06 /* HeroDetailViewController.m */,
+				128F893A1CCDA3910044FD06 /* HeroTableViewContoller.h */,
+				128F893B1CCDA3910044FD06 /* HeroTableViewContoller.m */,
 				128A1C8A1CCA92820010C748 /* Supporting Files */,
 			);
 			path = "Hero Tracker";
@@ -86,8 +89,9 @@
 		128A1C8A1CCA92820010C748 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				128A1CAA1CCAA8720010C748 /* heroes.json */,
-				128A1C8B1CCA92820010C748 /* main.m */,
+				128F893C1CCDA3910044FD06 /* Info.plist */,
+				128F893D1CCDA3910044FD06 /* main.m */,
+				128F894C1CCDA4E50044FD06 /* heroes.json */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -150,10 +154,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				128A1C9A1CCA92820010C748 /* LaunchScreen.storyboard in Resources */,
-				128A1CAB1CCAA8720010C748 /* heroes.json in Resources */,
-				128A1C971CCA92820010C748 /* Assets.xcassets in Resources */,
-				128A1C951CCA92820010C748 /* Main.storyboard in Resources */,
+				128F89401CCDA3910044FD06 /* Base.lproj in Resources */,
+				128F894B1CCDA4950044FD06 /* Main.storyboard in Resources */,
+				128F89491CCDA48B0044FD06 /* LaunchScreen.storyboard in Resources */,
+				128F894D1CCDA4E50044FD06 /* heroes.json in Resources */,
+				128F893F1CCDA3910044FD06 /* Assets.xcassets in Resources */,
+				128F89441CCDA3910044FD06 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -164,34 +170,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				128A1CAE1CCAB2BD0010C748 /* HeroTableViewContoller.m in Sources */,
-				128A1C8F1CCA92820010C748 /* AppDelegate.m in Sources */,
-				128A1CA61CCAA7490010C748 /* HeroDetailViewController.m in Sources */,
-				128A1C8C1CCA92820010C748 /* main.m in Sources */,
-				128A1CA91CCAA8160010C748 /* Hero.m in Sources */,
+				128F89451CCDA3910044FD06 /* main.m in Sources */,
+				128F89421CCDA3910044FD06 /* HeroDetailViewController.m in Sources */,
+				128F893E1CCDA3910044FD06 /* AppDelegate.m in Sources */,
+				128F89431CCDA3910044FD06 /* HeroTableViewContoller.m in Sources */,
+				128F89411CCDA3910044FD06 /* Hero.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		128A1C931CCA92820010C748 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				128A1C941CCA92820010C748 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		128A1C981CCA92820010C748 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				128A1C991CCA92820010C748 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		128A1C9C1CCA92820010C748 /* Debug */ = {
@@ -282,7 +269,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "Hero Tracker/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Hero Tracker/Hero Tracker/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Jorge-Catalan.Hero-Tracker";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -293,7 +280,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "Hero Tracker/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Hero Tracker/Hero Tracker/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Jorge-Catalan.Hero-Tracker";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -319,6 +306,7 @@
 				128A1CA01CCA92820010C748 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
