@@ -25,7 +25,7 @@
 		128F89321CCDA3910044FD06 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = "Hero Tracker/AppDelegate.h"; sourceTree = "<group>"; };
 		128F89331CCDA3910044FD06 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = "Hero Tracker/AppDelegate.m"; sourceTree = "<group>"; };
 		128F89341CCDA3910044FD06 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "Hero Tracker/Assets.xcassets"; sourceTree = "<group>"; };
-		128F89351CCDA3910044FD06 /* Base.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Base.lproj; path = "Hero Tracker/Base.lproj"; sourceTree = "<group>"; };
+		128F89351CCDA3910044FD06 /* Base.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Base.lproj; path = "Hero Tracker/Hero Tracker/Base.lproj"; sourceTree = "<group>"; };
 		128F89361CCDA3910044FD06 /* Hero.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Hero.h; path = "Hero Tracker/Hero.h"; sourceTree = "<group>"; };
 		128F89371CCDA3910044FD06 /* Hero.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Hero.m; path = "Hero Tracker/Hero.m"; sourceTree = "<group>"; };
 		128F89381CCDA3910044FD06 /* HeroDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HeroDetailViewController.h; path = "Hero Tracker/HeroDetailViewController.h"; sourceTree = "<group>"; };
@@ -53,6 +53,7 @@
 		128A1C7E1CCA92820010C748 = {
 			isa = PBXGroup;
 			children = (
+				128F89351CCDA3910044FD06 /* Base.lproj */,
 				128A1C891CCA92820010C748 /* Hero Tracker */,
 				128A1C881CCA92820010C748 /* Products */,
 			);
@@ -74,7 +75,6 @@
 				128F89481CCDA48B0044FD06 /* LaunchScreen.storyboard */,
 				128F894A1CCDA4950044FD06 /* Main.storyboard */,
 				128F89341CCDA3910044FD06 /* Assets.xcassets */,
-				128F89351CCDA3910044FD06 /* Base.lproj */,
 				128F89361CCDA3910044FD06 /* Hero.h */,
 				128F89371CCDA3910044FD06 /* Hero.m */,
 				128F89381CCDA3910044FD06 /* HeroDetailViewController.h */,
@@ -272,7 +272,7 @@
 				INFOPLIST_FILE = "$(SRCROOT)/Hero Tracker/Hero Tracker/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Jorge-Catalan.Hero-Tracker";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Hero Tracker";
 			};
 			name = Debug;
 		};
@@ -283,7 +283,7 @@
 				INFOPLIST_FILE = "$(SRCROOT)/Hero Tracker/Hero Tracker/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Jorge-Catalan.Hero-Tracker";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Hero Tracker";
 			};
 			name = Release;
 		};

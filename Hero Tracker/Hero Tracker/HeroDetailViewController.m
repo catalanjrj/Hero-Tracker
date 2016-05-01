@@ -19,12 +19,25 @@
 @property (weak, nonatomic) IBOutlet UILabel *powersLabel;
 @property (weak, nonatomic) IBOutlet UILabel *abilitiesLabel;
 
+- (void)loadDetail;
+
+
 @end
 
 @implementation HeroDetailViewController
 
+- (void)setHero:(Hero *)newHero {
+    if (_hero != newHero) {
+        _hero = newHero;
+        [self loadDetail];
+    }
+}
+
+
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+     [self loadDetail];
     // Do any additional setup after loading the view.
 }
 
@@ -33,14 +46,27 @@
     // Dispose of any resources that can be recreated.
 }
 
-/*
-#pragma mark - Navigation
-
-// In a storyboard-based application, you will often want to do a little preparation before navigation
-- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
-    // Get the new view controller using [segue destinationViewController].
-    // Pass the selected object to the new view controller.
+- (void)loadDetail {
+    if (self.hero) {
+        self.title = self.hero.heroName;
+        if (![self.hero.nickName isEqualToString:@""]) {
+            self.heroNameLabel.text = [NSString stringWithFormat:@"%@ %@ %@", self.hero.firstName, self.hero.nickName, self.hero.lastName];
+        } else {
+            self.heroNameLabel.text = [NSString stringWithFormat:@"%@ %@", self.hero.firstName, self.hero.lastName];
+        }
+        self.heightLabel.text = ![self.hero.height isEqualToString:@"none"] ? self.hero.height : @"none";
+        self.weightLabel.text = ![self.hero.weight isEqualToString:@"none"] ? self.hero.weight : @"none";
+        self.powersLabel.text = ![self.hero.powers isEqualToString:@"none"] ? self.hero.powers : @"none";
+        self.abilitiesLabel.text = ![self.hero.abilities isEqualToString:@"none"] ? self.hero.abilities : @"none";
+    } else {
+        self.title = @"Error";
+        self.heroNameLabel.text = @"No data found";
+        self.heightLabel.text = @"No data found";
+        self.weightLabel.text = @"No data found";
+        self.powersLabel.text = @"No data found";
+        self.abilitiesLabel.text = @"No data found";
+    }
 }
-*/
+
 
 @end

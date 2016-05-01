@@ -22,8 +22,8 @@
   "height": "6'3\"",
   "weight": "300 lbs.",
   
-  "powers": "The Vision is able to fly and possesses complete control over hisdensity, enabling him to render himself intangible or extraordinarily massive and diamond-hard at will. He can partially materialize within another person,causing his victim extreme pain. The solar cell on the Vision's forehead emits beams of infrared and microwave radiation, with temperatures ranging from 500 to 30,000 degrees Fahrenheit."
-  "abilities": "none",
+  "powers": "The Vision is able to fly and possesses complete control over hisdensity, enabling him to render himself intangible or extraordinarily massive and diamond-hard at will. He can partially materialize within another person,causing his victim extreme pain. The solar cell on the Vision's forehead emits beams of infrared and microwave radiation, with temperatures ranging from 500 to 30,000 degrees Fahrenheit.",
+  "abilities": "none"
   },
   {
   
@@ -52,8 +52,8 @@
   {
   "heroName":"Doop",
   "firstName": "Doop(presumed)",
-  "lastName": "none",
-  "nickName": "none",
+  "lastName": "",
+  "nickName": "",
   
   "height": "Variable, usually around 3'",
   "weight": "Variable",
@@ -66,7 +66,7 @@
   "heroName": "Domino",
   "firstName":"Neena",
   "lastName": "Thurman",
-  "nickName": "none",
+  "nickName": "",
   
   "height": "5'8\"",
   "weight": "120 lbs.",
@@ -96,15 +96,15 @@
   "height": "5'9\"",
   "weight": "166 lbs.",
   
-  "powers": "Iron Lad ages slightly slower than norml humans."
-  "abilities": "none"
+  "powers": "Iron Lad ages slightly slower than norml humans.",
+  "abilities": ""
   
   },
   {
   "heroName":"Moon Knight",
   "firstName": "Marc",
   "lastName": "Spector",
-  "nickName": "none",
+  "nickName": "",
   
   "height": "6'2\"",
   "weight": "225 lbs.",
@@ -116,7 +116,7 @@
   "heroName":"NightCrawler",
   "firstName": "Kurt",
   "lastName": "Wagner",
-  "nickName": "none",
+  "nickName": "",
   
   "height": "5'9\"",
   "weight": "161 lbs.",
@@ -128,7 +128,7 @@
   "heroName": "Odin",
   "firstName": "Odin",
   "lastName": "Borson",
-  "nickName": "none",
+  "nickName": "",
   
   "height": "6'9\"",
   "weight": "650 lbs.",

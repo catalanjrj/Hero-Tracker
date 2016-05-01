@@ -50,14 +50,11 @@
         
    [self.heroes addObject:[Hero heroWithDictionary:hero]];
         
-        [self.tableView reloadData];
+       // [self.tableView reloadData];
         
 }
-   
-    NSSortDescriptor *sortDescriptor = [[NSSortDescriptor alloc] initWithKey:@"name" ascending:YES];
+    [self.heroes sortUsingDescriptors:[NSArray arrayWithObjects:[NSSortDescriptor sortDescriptorWithKey:@"heroName" ascending:YES],nil]];
     
-    NSArray *sortDescriptors = [NSArray arrayWithObject:sortDescriptor];
-    self.heroes = [[self.heroes sortedArrayUsingDescriptors:sortDescriptors] mutableCopy];
     
     [self.tableView reloadData];
     
@@ -67,7 +64,7 @@
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
 
-    return 0;
+    return 1;
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
@@ -88,10 +85,10 @@
     return cell;
 }
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
-    // Deselect our row first
+     //Deselect our row first
     [self.tableView deselectRowAtIndexPath:indexPath animated:YES];
     
-    // Get the selected hero
+     //Get the selected hero
     self.selectedHero = self.heroes[indexPath.row];
     
     // Perform segue
@@ -99,10 +96,10 @@
 }
 - (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
     if ([segue.identifier isEqualToString:@"heroDetails"]) {
-        
-        //[(HeroDetailViewController*)segue.destinationViewController setHero:self.selectedHero];
-        //[self setSelectedHero:nil];
+        [(HeroDetailViewController *)segue.destinationViewController setHero:self.selectedHero];
+        [self setSelectedHero:nil];
     }
 }
+
 
 @end

@@ -11,7 +11,7 @@
 @interface HeroTableViewContoller : UITableViewController
 
 
-
+-(void)loadHeroes;
 
 
 
