@@ -2,8 +2,8 @@
   {
   "heroName":"Howard The Duck",
   "firstName": "Howard",
-  "lastName":"UNREVEALED",
-  "nickName":"None",
+  "lastName":"",
+  "nickName":"",
   
   "height": "2'7\"",
   "weight": "40 lbs.",
@@ -16,14 +16,14 @@
   
   "heroName":"Vision",
   "firstName": "Vision",
-  "lastName":"none",
-  "nickName":"none",
+  "lastName":"",
+  "nickName":"",
   
   "height": "6'3\"",
   "weight": "300 lbs.",
   
   "powers": "The Vision is able to fly and possesses complete control over hisdensity, enabling him to render himself intangible or extraordinarily massive and diamond-hard at will. He can partially materialize within another person,causing his victim extreme pain. The solar cell on the Vision's forehead emits beams of infrared and microwave radiation, with temperatures ranging from 500 to 30,000 degrees Fahrenheit.",
-  "abilities": "none"
+  "abilities": ""
   },
   {
   
@@ -46,16 +46,16 @@
   "height": "6'2\"",
   "weight": "185 lbs.",
   
-  "powers": "none",
+  "powers": "",
   "abilities": "A natural all-around athlete, Flash was a capable unarmedcombatant thanks to his boxing background and his military experience, and was a well-trained soldier during his army days. Flash was also a gifted football player in his youth. A car accident left Flash a mental and physical wreck, confined to a wheelchair and stuck in a speechless stupor. However, he recently recovered physically, though mentally has lost all memories after high school."
   },
   {
   "heroName":"Doop",
-  "firstName": "Doop(presumed)",
+  "firstName": "Doop",
   "lastName": "",
   "nickName": "",
   
-  "height": "Variable, usually around 3'",
+  "height": "Variable",
   "weight": "Variable",
   
   "powers": "Doop's body contained a nightmare dimension called Doop Land, which he could access by turning himself inside-out. He had roughly Class 100 strength and an untested level of energy projection, which included the ability to fire energy blasts from his brain and the power to emit a short-range energy pulse that prevented psychic intrusion. Doop’s body contained a backup brain, which could sustain him for a short period of time in the absence of his primary brain. Having no legs, Doop moved via levitation. He could inflate his body to unknown proportions. The full extent of Doop’s many powers is unknown",
@@ -91,7 +91,7 @@
   "heroName": "Iron Lad",
   "firstName": "Nathaniel",
   "lastName": "Richards",
-  "nickName": "none",
+  "nickName": "",
   
   "height": "5'9\"",
   "weight": "166 lbs.",
@@ -140,7 +140,7 @@
   "heroName":"Squirrel Girl",
   "firstName": "Doreen",
   "lastName": "Green",
-  "nickName": "none",
+  "nickName": "",
   
   
   "height": "5'3\"",

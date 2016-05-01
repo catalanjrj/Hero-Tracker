@@ -96,27 +96,19 @@
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Lky-Kw-nm4" userLabel="First Name Label">
-                                <rect key="frame" x="20" y="84" width="42" height="21"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="Lky-Kw-nm4" firstAttribute="leading" secondItem="kc0-92-fwJ" secondAttribute="leading" id="0Sj-Jx-niD"/>
                             <constraint firstItem="lBu-Pk-Rel" firstAttribute="top" secondItem="2Ft-7C-jNs" secondAttribute="bottom" constant="346" id="36l-L2-F7b"/>
+                            <constraint firstItem="kc0-92-fwJ" firstAttribute="leading" secondItem="2Ft-7C-jNs" secondAttribute="leading" id="3sK-Gr-obO"/>
                             <constraint firstItem="kqI-Dk-svc" firstAttribute="leading" secondItem="wh9-hL-zOv" secondAttribute="leadingMargin" id="Dqh-z0-ILX"/>
                             <constraint firstItem="KYL-tR-vOP" firstAttribute="top" secondItem="5cq-V7-gA0" secondAttribute="bottom" constant="20" id="ECG-E2-3Mh"/>
-                            <constraint firstItem="Lky-Kw-nm4" firstAttribute="top" secondItem="H5T-d5-kJe" secondAttribute="bottom" constant="20" id="H9Y-83-wxm"/>
                             <constraint firstItem="2Ft-7C-jNs" firstAttribute="top" secondItem="kc0-92-fwJ" secondAttribute="bottom" constant="32" id="HWa-kv-xg1"/>
                             <constraint firstItem="5cq-V7-gA0" firstAttribute="leading" secondItem="wh9-hL-zOv" secondAttribute="leadingMargin" id="OVv-oH-k5R"/>
-                            <constraint firstItem="Lky-Kw-nm4" firstAttribute="leading" secondItem="2Ft-7C-jNs" secondAttribute="leading" id="Uzh-vr-hlF"/>
                             <constraint firstItem="KYL-tR-vOP" firstAttribute="leading" secondItem="wh9-hL-zOv" secondAttribute="leadingMargin" id="cSW-WA-Oic"/>
                             <constraint firstItem="kqI-Dk-svc" firstAttribute="top" secondItem="KYL-tR-vOP" secondAttribute="bottom" constant="8" id="rge-Kc-LpT"/>
                             <constraint firstItem="5cq-V7-gA0" firstAttribute="top" secondItem="H5T-d5-kJe" secondAttribute="bottom" id="uKu-rV-bkF"/>
-                            <constraint firstItem="Lky-Kw-nm4" firstAttribute="leading" secondItem="5cq-V7-gA0" secondAttribute="leading" id="xDP-LU-L4b"/>
+                            <constraint firstItem="kc0-92-fwJ" firstAttribute="leading" secondItem="kqI-Dk-svc" secondAttribute="leading" id="vz7-0k-dOe"/>
                         </constraints>
                     </view>
                     <connections>
