@@ -3,7 +3,7 @@
   "heroName":"Howard The Duck",
   "firstName": "Howard",
   "lastName":"",
-  "nickName":"",
+  "nickname":"",
   
   "height": "2'7\"",
   "weight": "40 lbs.",
@@ -17,43 +17,46 @@
   "heroName":"Vision",
   "firstName": "Vision",
   "lastName":"",
-  "nickName":"",
+  "nickname":"",
   
   "height": "6'3\"",
   "weight": "300 lbs.",
   
   "powers": "The Vision is able to fly and possesses complete control over hisdensity, enabling him to render himself intangible or extraordinarily massive and diamond-hard at will. He can partially materialize within another person,causing his victim extreme pain. The solar cell on the Vision's forehead emits beams of infrared and microwave radiation, with temperatures ranging from 500 to 30,000 degrees Fahrenheit.",
-  "abilities": ""
+  "abilities": "NONE"
+  
   },
   {
   
-  "heroName":"Spider-Gwen",
+   "heroName":"Spider-Gwen",
   "firstName":"Gwendolyne",
   "lastName": "Stacy",
-  "nickName": "Gwen",
+  "nickname": "Gwen",
   
   "height": "5'5\"",
   "weight": "125 lbs.",
   
-  "powers": "wall crawling, enhanced strength, speed, stamina, durability, regeneration and balance, spider-sense, and the mark of kain."
+  "powers": "wall crawling, enhanced strength, speed, stamina, durability, regeneration and balance, spider-sense, and the mark of kain.",
+  "abilities":"NONE"
+  
   },
   {
    "heroName": "Venom",
   "firstName": "Eugene",
   "lastName" : "Thompson",
-  "nickName" : "Flash",
+  "nickname" : "Flash",
   
   "height": "6'2\"",
   "weight": "185 lbs.",
   
-  "powers": "",
-  "abilities": "A natural all-around athlete, Flash was a capable unarmedcombatant thanks to his boxing background and his military experience, and was a well-trained soldier during his army days. Flash was also a gifted football player in his youth. A car accident left Flash a mental and physical wreck, confined to a wheelchair and stuck in a speechless stupor. However, he recently recovered physically, though mentally has lost all memories after high school."
+   "powers": "NONE",
+ "abilities": "A natural all-around athlete, Flash was a capable unarmedcombatant thanks to his boxing background and his military experience, and was a well-trained soldier during his army days. Flash was also a gifted football player in his youth. A car accident left Flash a mental and physical wreck, confined to a wheelchair and stuck in a speechless stupor. However, he recently recovered physically, though mentally has lost all memories after high school."
   },
   {
   "heroName":"Doop",
   "firstName": "Doop",
   "lastName": "",
-  "nickName": "",
+  "nickname": "",
   
   "height": "Variable",
   "weight": "Variable",
@@ -66,7 +69,7 @@
   "heroName": "Domino",
   "firstName":"Neena",
   "lastName": "Thurman",
-  "nickName": "",
+  "nickname": "",
   
   "height": "5'8\"",
   "weight": "120 lbs.",
@@ -79,7 +82,7 @@
   "heroName":"Ghost Rider",
   "firstName": "Jonathan",
   "lastName": "Blaze",
-  "nickName": "Johnny",
+  "nickname": "Johnny",
   
   "height": "5'10\"(Blaze), 6'2\"(Ghost Rider)",
   "weight": "180 lbs.(Blaze), 220 lbs. (Ghost Rider)",
@@ -91,20 +94,20 @@
   "heroName": "Iron Lad",
   "firstName": "Nathaniel",
   "lastName": "Richards",
-  "nickName": "",
+  "nickname": "",
   
   "height": "5'9\"",
   "weight": "166 lbs.",
   
   "powers": "Iron Lad ages slightly slower than norml humans.",
-  "abilities": ""
+  "abilities": "NONE"
   
   },
   {
   "heroName":"Moon Knight",
   "firstName": "Marc",
   "lastName": "Spector",
-  "nickName": "",
+  "nickname": "",
   
   "height": "6'2\"",
   "weight": "225 lbs.",
@@ -116,7 +119,7 @@
   "heroName":"NightCrawler",
   "firstName": "Kurt",
   "lastName": "Wagner",
-  "nickName": "",
+  "nickname": "",
   
   "height": "5'9\"",
   "weight": "161 lbs.",
@@ -128,7 +131,7 @@
   "heroName": "Odin",
   "firstName": "Odin",
   "lastName": "Borson",
-  "nickName": "",
+  "nickname": "",
   
   "height": "6'9\"",
   "weight": "650 lbs.",
@@ -140,7 +143,7 @@
   "heroName":"Squirrel Girl",
   "firstName": "Doreen",
   "lastName": "Green",
-  "nickName": "",
+  "nickname": "",
   
   
   "height": "5'3\"",

@@ -36,14 +36,14 @@
 
 - (void)configureView
 {
-    if (self.hero)
-    {
+    if(self.hero){
         self.title = self.hero.heroName;
-        self.heroNameLabel.text = [NSString stringWithFormat:@"Name: %@ %@ %@", self.hero.firstName,self.hero.nickName, self.hero.lastName ];
-        self.powersLabel.text = [NSString stringWithFormat:@"Powers: %@", self.hero.powers];
-        self.heightLabel.text = [NSString stringWithFormat:@"Height: %@", self.hero.height];
-        self.weightLabel.text = [NSString stringWithFormat:@"Weight: %@", self.hero.weight];
-        self.abilitiesLabel.text = [NSString stringWithFormat:@"Abilities: %@", self.hero.abilities];
+        self.heroNameLabel.text = [NSString stringWithFormat:@"name: %@ %@ %@", self.hero.firstName,self.hero.nickname, self.hero.lastName ];
+        self.powersLabel.text = [NSString stringWithFormat:@"powers: %@", self.hero.powers];
+        self.heightLabel.text = [NSString stringWithFormat:@"height: %@", self.hero.height];
+        self.weightLabel.text = [NSString stringWithFormat:@"weight: %@", self.hero.weight];
+        self.abilitiesLabel.text = [NSString stringWithFormat:@"abilities: %@", self.hero.abilities];
+   
     }
 }
 
@@ -52,7 +52,6 @@
     [super viewDidLoad];
      [self configureView];
     
-//     [self loadDetail];
     // Do any additional setup after loading the view.
 }
 

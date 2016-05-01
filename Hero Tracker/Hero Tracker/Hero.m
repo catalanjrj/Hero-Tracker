@@ -17,7 +17,7 @@
         aHero.heroName = heroDict[@"heroName"];
         aHero.firstName = heroDict[@"firstName"];
         aHero.lastName = heroDict[@"lastName"];
-        aHero.nickName= heroDict[@"nickName"];
+        aHero.nickname= heroDict[@"nickname"];
         aHero.height = heroDict[@"height"];
         aHero.weight = heroDict[@"weight"];
         aHero.powers = heroDict[@"powers"];
