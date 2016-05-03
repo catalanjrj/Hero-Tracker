@@ -14,9 +14,9 @@
     Hero *aHero = nil;
     {if (heroDict) {
         aHero = [[Hero alloc] init];
-        aHero.heroName = heroDict[@"heroName"];
-        aHero.firstName = heroDict[@"firstName"];
-        aHero.lastName = heroDict[@"lastName"];
+        aHero.heroName = heroDict[@"heroname"];
+        aHero.firstName = heroDict[@"firstname"];
+        aHero.lastName = heroDict[@"lastname"];
         aHero.nickname= heroDict[@"nickname"];
         aHero.height = heroDict[@"height"];
         aHero.weight = heroDict[@"weight"];

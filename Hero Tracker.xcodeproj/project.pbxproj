@@ -29,14 +29,14 @@
 		128F89361CCDA3910044FD06 /* Hero.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Hero.h; path = "Hero Tracker/Hero.h"; sourceTree = "<group>"; };
 		128F89371CCDA3910044FD06 /* Hero.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Hero.m; path = "Hero Tracker/Hero.m"; sourceTree = "<group>"; };
 		128F89381CCDA3910044FD06 /* HeroDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HeroDetailViewController.h; path = "Hero Tracker/HeroDetailViewController.h"; sourceTree = "<group>"; };
-		128F89391CCDA3910044FD06 /* HeroDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HeroDetailViewController.m; path = "Hero Tracker/HeroDetailViewController.m"; sourceTree = "<group>"; };
+		128F89391CCDA3910044FD06 /* HeroDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HeroDetailViewController.m; path = "Hero Tracker/HeroDetailViewController.m"; sourceTree = "<group>"; usesTabs = 0; };
 		128F893A1CCDA3910044FD06 /* HeroTableViewContoller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HeroTableViewContoller.h; path = "Hero Tracker/HeroTableViewContoller.h"; sourceTree = "<group>"; };
 		128F893B1CCDA3910044FD06 /* HeroTableViewContoller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HeroTableViewContoller.m; path = "Hero Tracker/HeroTableViewContoller.m"; sourceTree = "<group>"; };
 		128F893C1CCDA3910044FD06 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "Hero Tracker/Info.plist"; sourceTree = "<group>"; };
 		128F893D1CCDA3910044FD06 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = "Hero Tracker/main.m"; sourceTree = "<group>"; };
 		128F89481CCDA48B0044FD06 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = "Hero Tracker/Base.lproj/LaunchScreen.storyboard"; sourceTree = "<group>"; };
 		128F894A1CCDA4950044FD06 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = "Hero Tracker/Base.lproj/Main.storyboard"; sourceTree = "<group>"; };
-		128F894C1CCDA4E50044FD06 /* heroes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = heroes.json; sourceTree = SOURCE_ROOT; };
+		128F894C1CCDA4E50044FD06 /* heroes.json */ = {isa = PBXFileReference; explicitFileType = text.json; fileEncoding = 4; path = heroes.json; sourceTree = SOURCE_ROOT; wrapsLines = 1; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
